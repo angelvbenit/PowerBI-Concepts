@@ -36,4 +36,4 @@ An end-to-end Power BI solution designed to provide deep-dive analytics into bus
 ---
 
 ## 👤 Author
-[[LinkedIn Profile Link](https://www.linkedin.com/in/angelvbenit/)] 
+[[Angel Benit Veronica](https://www.linkedin.com/in/angelvbenit/)] 
